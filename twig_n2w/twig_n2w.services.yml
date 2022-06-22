@@ -1,0 +1,5 @@
+services:
+  twig_n2w.twig_extension:
+    class: Drupal\twig_n2w\Twig\Numbers2WordsConversion
+    tags:
+      - { name: twig.extension }

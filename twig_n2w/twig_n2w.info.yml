@@ -1,0 +1,10 @@
+name: Twig Numbers to Words (N2W)
+type: module
+description: Modules that converts numeric to German or English
+core_version_requirement: ^8 || ^9
+core: 8.x
+package: 'twig_n2w'
+# Information added by Drupal.org packaging script on 2020-06-04
+version: '1.0.0'
+project: 'twig_n2w'
+datestamp: 1591268542

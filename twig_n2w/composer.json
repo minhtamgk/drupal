@@ -1,0 +1,6 @@
+{
+  "name": "drupal/twig_n2w",
+  "description": "Modules that converts numeric to German or English",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later"
+}
